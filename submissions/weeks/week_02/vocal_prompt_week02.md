@@ -16,8 +16,8 @@ conventions: time is `s`, years since a hemispheric cycle's 15° latitude crossi
 
 ### Student
 
-length:
-Terminology I can already use:
+length: short
+Terminology I can already use: point processes: inhomogeneous Poisson process; statistical inference: log-likelihood, maximum likelihood estimate, identifiability; solar cycle physics: emergence rate, onset
 
 ### Instructions
 
